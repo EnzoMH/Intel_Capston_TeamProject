@@ -17,12 +17,12 @@
   - XGB Model
   2) Algorithm
   - PCA / tSNE (Unsupervised Learning)  
-- ![이미지 대체 텍스트](https://github.com/EnzoMH/Intel_Capston_TeamProject/blob/main/Rossman.png)
+ ![이미지 대체 텍스트](https://github.com/EnzoMH/Intel_Capston_TeamProject/blob/main/Rossman.png)
 - Project No.2 - 로스만 판매 데이터분석을 통한 매출 예측, 판매전략 수립 [ 23.11.02 ~ 23.11.03 ]
   1) Model
   - Random Forest
   - XGB Model
-- ![이미지 대체 텍스트](https://github.com/EnzoMH/Intel_Capston_TeamProject/blob/main/waste.png)
+ ![이미지 대체 텍스트](https://github.com/EnzoMH/Intel_Capston_TeamProject/blob/main/waste.png)
 - Project No.3 - CNN 모델을 활용한 Waste Classifier 와 App-AI intergration Project [ 23.11.06 ~ 23.11.07 ]  
   1) Model
   - CNN
